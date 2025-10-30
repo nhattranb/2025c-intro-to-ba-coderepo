@@ -6,16 +6,10 @@ print(sample)
 
 # Sample mathematics
 a <- 2025
-b <- a - 1015
+b <- 5
 c <- a + b
 d <- a - b
 e <- a*b
 f <- a / b
 max(c, d, e, f)
 
-# User input
-var = readline();
-var = as.integer(var);
-print(var)
-
-# 
